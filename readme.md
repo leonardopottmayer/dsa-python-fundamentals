@@ -23,3 +23,7 @@
   - Creating variables and checking their types, using multiple declarations, assigning variables to other variables and concatenating variables.
 - **C04.3.py - Strings**: 
   - Creating and indexing strings, using string properties, using built-in string functions and script functions.
+- **C04.4.py - Lists**: 
+  - Working with lists and buil-in list functions.
+- **C04.5.py - Dictionaries and tuples**: 
+  - Working with dictionaries and immutable tuples.
