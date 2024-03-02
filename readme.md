@@ -27,3 +27,21 @@
   - Working with lists and buil-in list functions.
 - **C04.5.py - Dictionaries and tuples**: 
   - Working with dictionaries and immutable tuples.
+
+### C05 - Loops, conditionals, methods and functions
+- **C05.1.py - Conditionals, logical operators and relational operators**
+  - Using conditionals, nested conditionals, logical operators and relational operators.
+- **C05.2.py - Loops**: 
+  - Using for and while loops.
+- **C05.3.py - Intervals**: 
+  - Using range intervals.
+- **C05.4.py - Functions**: 
+  - Using built-in functions and creating my own functions.
+- **C05.5.py - Lambda**: 
+  - Creating lambda functions.
+- **C05.6.py - Comprehension**: 
+  - Using list and dictionary comprehension.
+- **calculator.py - Calculator**: 
+  - Calculator.
+- **fakeCalculator.py - Fake Calculator**: 
+  - Fake Calculator.
